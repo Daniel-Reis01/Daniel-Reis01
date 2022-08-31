@@ -1,9 +1,11 @@
-Oi sou daniel almeida e quero te dar as boas vindas ao meu github !
+# Oi sou daniel almeida e quero te dar as boas vindas ao meu github !
 <div align="center">
   <a href="https://github.com/DanielReis01">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=danielreis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielreis&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+## Tecnologias
 <div style="display:inline-block">
 
 <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -16,6 +18,8 @@ Oi sou daniel almeida e quero te dar as boas vindas ao meu github !
 <img  align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
                    
 </div>
+
+## Contato
   <div >          
  
 <a href = "mailto:pelvefratu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
