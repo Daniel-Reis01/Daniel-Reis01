@@ -1,5 +1,10 @@
-# Oi sou daniel almeida !
+# Welcome !
+<div>
+ <img align="center" height="50" width="70" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Fsearch%3Fq%3Dprogramador&psig=AOvVaw3A5-KaRwfDJveXzhKpHu3G&ust=1680981393084000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjizOi9mP4CFQAAAAAdAAAAABAE" />
+
 <p>Olá, eu sou Daniel e sou um desenvolvedor de software apaixonado por tecnologia e inovação. Atualmente, estou focado em aprender novas tecnologias e aprimorar minhas habilidades de programação.<br/>Eu adoro colaborar em projetos abertos e contribuir para a comunidade de desenvolvedores. Sinta-se à vontade para explorar meus repositórios, fornecer feedback e até mesmo colaborar em algum projeto. Obrigado pela visita!</p>
+</div>
+
 <div align="center">
   <a href="https://github.com/DanielReis01">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=danielreis&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
