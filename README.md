@@ -1,6 +1,6 @@
 # Welcome !
 <div>
- <img align="center" height="50" width="70" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fpt%2Fsearch%3Fq%3Dprogramador&psig=AOvVaw3A5-KaRwfDJveXzhKpHu3G&ust=1680981393084000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNjizOi9mP4CFQAAAAAdAAAAABAE" />
+ <img align="center" height="50" width="70" src="https://w7.pngwing.com/pngs/115/631/png-transparent-programmer-computer-programming-others-miscellaneous-web-design-company.png" />
 
 <p>Olá, eu sou Daniel e sou um desenvolvedor de software apaixonado por tecnologia e inovação. Atualmente, estou focado em aprender novas tecnologias e aprimorar minhas habilidades de programação.<br/>Eu adoro colaborar em projetos abertos e contribuir para a comunidade de desenvolvedores. Sinta-se à vontade para explorar meus repositórios, fornecer feedback e até mesmo colaborar em algum projeto. Obrigado pela visita!</p>
 </div>
