@@ -2,7 +2,7 @@
 <div>
 
 
-<p>Olá, eu sou Daniel e sou um desenvolvedor de software apaixonado por tecnologia e inovação. Atualmente, estou focado em aprender novas tecnologias e aprimorar minhas habilidades de programação.<br/>Eu adoro colaborar em projetos abertos e contribuir para a comunidade de desenvolvedores. Sinta-se à vontade para explorar meus repositórios, fornecer feedback e até mesmo colaborar em algum projeto. Obrigado pela visita! </p>
+<p>Olá, eu sou Daniel e sou um desenvolvedor de software apaixonado por tecnologia e inovação. Atualmente, estou focado em aprender novas tecnologias e aprimorar minhas habilidades de programação.<br/>Eu adoro colaborar em projetos abertos e contribuir para a comunidade de desenvolvedores. Sinta-se à vontade para explorar meus repositórios, fornecer feedback e até mesmo colaborar em algum projeto. Obrigado pela visita!  </p>
 </div>
 
 <div align="center">
